@@ -14,6 +14,7 @@ namespace TicTacToe
             Console.WriteLine();
             UC1Createboard.createboard();
             UC2Chooseletter.chooseletter();
+            UC3Choosevalidcells.choosevalidcell();
         }
     }
 }
